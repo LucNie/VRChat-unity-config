@@ -1,0 +1,1 @@
+# VRChat-unity-config
