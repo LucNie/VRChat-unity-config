@@ -1,4 +1,8 @@
-## Standart
+## Standard 
+see this link for nice configs for dynamic bone to use on VRChat. \
+Link: https://gist.github.com/SrPhilippe/43c1bad021fab173d3ef1d5255d53f53
+
+## RINDO
 | | Short Hair | Long Hair  | Tail | Ear |
 | ------ | ------ | ------ | ------ | ------ |
 | Damping | 0.5 | 0.6 | 0.2 | 0.2 |
